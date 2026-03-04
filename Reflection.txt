@@ -1,0 +1,35 @@
+Mobile Apps Development – Final Project Reflection
+
+Project Overview
+This project is a simple Android car marketplace prototype developed using Java in Android Studio.
+The application demonstrates key Android development concepts such as RecyclerView lists, activity navigation, user interaction, and dynamic data handling.
+
+Features Implemented
+The application includes several core features:
+- A dynamic car list implemented using RecyclerView
+- A detailed view page for each car
+- A favorite toggle allowing users to mark cars as favorites
+- A search bar that filters cars in real time
+- A sorting feature that sorts cars by price
+- A contact seller button that opens the phone dialer
+- Navigation between activities with a working back button
+
+Challenges Faced
+One of the main challenges was managing dynamic lists while keeping the favorite state consistent when filtering or sorting the data.
+Another challenge was correctly implementing the RecyclerView adapter and ViewHolder pattern, as well as debugging layout and activity navigation issues.
+Several errors were caused by misplaced methods or incorrect braces in the Java files, which required careful debugging.
+
+Tools and Technologies
+The project was developed using:
+- Android Studio
+- Java programming language
+- Android RecyclerView and Adapter/ViewHolder architecture
+- XML layout design
+
+GitHub Repository
+The project is available on GitHub:
+[PASTE YOUR GITHUB LINK HERE]
+
+Conclusion
+This project helped reinforce fundamental Android development concepts such as UI layout design, activity navigation, list management, and user interaction.
+It provided practical experience in structuring Android applications and debugging real-world issues during development.
