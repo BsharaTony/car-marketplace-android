@@ -28,7 +28,7 @@ The project was developed using:
 
 GitHub Repository
 The project is available on GitHub:
-[PASTE YOUR GITHUB LINK HERE]
+https://github.com/BsharaTony/car-marketplace-android
 
 Conclusion
 This project helped reinforce fundamental Android development concepts such as UI layout design, activity navigation, list management, and user interaction.
